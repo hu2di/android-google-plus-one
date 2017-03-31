@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google+</string>
+    <string name="loading">loading</string>
+    <string name="signed_in_fmt">SCC</string>
+</resources>
